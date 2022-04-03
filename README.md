@@ -22,8 +22,6 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 
 ## Notes (login with UW netid)
 
-Note: These notes are broken up according to "Lecture XX".  This should mostly ignored because this course is going to end up at a different pace.
-
 1. [Notes 1](https://drive.google.com/open?id=14Ho6iEnkWzIEtOnlZQVvjbMuwVVuqP2Y)
   * Lecture 1: Section 5.1
   * Lecture 2: Section 5.2
