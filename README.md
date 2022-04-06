@@ -8,25 +8,24 @@ For assignment discussion and submission we will use:
 
 Accompanying each assignment is a link for you to initialize a repository.  The code you write for the assignment should be put there.  It allows you to ask specific questions about specific lines of code and allows me to comment directly on your code.  Also, it's good to get used to `git`. 
 
-You can sign up for the discussion board here: https://piazza.com/washington/spring2022/amath586 using code `time_dep`.
-
 Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/courses/381632
 
 ## Homework
 
 1. [Homework 1](https://classroom.github.com/a/1NgqS_Ss) 
 
-## Typed notes (may be either ahead or behind)
+## Typed notes
 
 [Lecture Notes](https://github.com/trogdoncourses/amath-586-2022/blob/main/Advanced_Numerical_Analysis.pdf)
 
-## Notes (login with UW netid)
+## Lecture Schedule (subject to change)
 
-1. [Notes 1](https://drive.google.com/open?id=14Ho6iEnkWzIEtOnlZQVvjbMuwVVuqP2Y)
-  * Lecture 1: Section 5.1
-  * Lecture 2: Section 5.2
-1. [Notes 2]()
-  * Lecture 3: Section 5.3 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Euler.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Euler.html)
+* Lecture 1: Section 5.1
+* Lecture 2: Section 5.2
+* Lecture 3: Section 5.3 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Euler.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Euler.html)
+* Lecture 4: Sections 5.4 & 5.5
+* Lecture 5: Sections 5.6 & 5.7
+
 
 ## Extra topics
 
