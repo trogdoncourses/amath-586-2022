@@ -18,7 +18,7 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 
 [Lecture Notes](https://github.com/trogdoncourses/amath-586-2022/blob/main/Advanced_Numerical_Analysis.pdf)
 
-## Lecture Schedule (subject to change)
+## Lecture Schedule (subject to change, sections listed refer to LeVeque)
 
 * Lecture 1: Section 5.1
 * Lecture 2: Section 5.2
