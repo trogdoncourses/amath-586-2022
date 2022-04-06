@@ -18,13 +18,12 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 
 [Lecture Notes](https://github.com/trogdoncourses/amath-586-2022/blob/main/Advanced_Numerical_Analysis.pdf)
 
-## Notes (login with UW netid)
+* Lecture 1: Section 5.1
+* Lecture 2: Section 5.2
+* Lecture 3: Section 5.3 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Euler.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Euler.html)
+* Lecture 4: Sections 5.4 & 5.5
+* Lecture 5: Sections 5.6 & 5.7
 
-1. [Notes 1](https://drive.google.com/open?id=14Ho6iEnkWzIEtOnlZQVvjbMuwVVuqP2Y)
-  * Lecture 1: Section 5.1
-  * Lecture 2: Section 5.2
-1. [Notes 2]()
-  * Lecture 3: Section 5.3 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Euler.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Euler.html)
 
 ## Extra topics
 
