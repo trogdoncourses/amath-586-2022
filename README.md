@@ -25,7 +25,7 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 2: Section 5.2
 * Lecture 3: Section 5.3 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Euler.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Euler.html)
 * Lecture 4: Sections 5.4 & 5.5
-* Lecture 5: Sections 5.6 & 5.7
+* Lecture 5: Sections 5.6 & 5.7 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Multistage-step.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Multistage-step.html)
 
 
 ## Extra topics
