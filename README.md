@@ -26,9 +26,13 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 3: Section 5.3 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Euler.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Euler.html)
 * Lecture 4: Sections 5.4 & 5.5
 * Lecture 5: Sections 5.9
-* Lecture 6: Section 5.6 & 5.7 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Multistage-step.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Multistage-step.html)
-* Lecture 7: Section 5.8, 6.1 & see typed notes
-* Lecture 8: Section 6.1-3
+* Lecture 6: Sections 5.6-7 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Multistage-step.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Multistage-step.html)
+* Lecture 7: Sections 5.8, 6.1 & see typed notes
+* Lecture 8: Sections 6.1-3
+* Lecture 9: Sections 6.4, 7.1-2
+* Lecture 10: Sections 7.3-7.6 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/StabilityDemo.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/StabilityDemo.html)
+* Lecture 11: Sections 7.6 & Section 1.5 in typed notes [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/AbsoluteStabilityRegions.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/AbsoluteStabilityRegions.html) [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/JacobianEigenvalues.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/JacobianEigenvalues.html)
+* Lecture 12: Sections 7.7 & 8.1 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/RelativeStabilityRegions.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/RelativeStabilityRegions.html) [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/StiffODEs.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/StiffODEs.html)
 
 
 ## Extra topics
