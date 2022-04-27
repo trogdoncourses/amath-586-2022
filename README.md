@@ -34,6 +34,8 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 10: Sections 7.3-7.6 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/StabilityDemo.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/StabilityDemo.html)
 * Lecture 11: Sections 7.6 & Section 1.5 in typed notes [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/AbsoluteStabilityRegions.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/AbsoluteStabilityRegions.html) [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/JacobianEigenvalues.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/JacobianEigenvalues.html)
 * Lecture 12: Sections 7.7 & 8.1 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/RelativeStabilityRegions.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/RelativeStabilityRegions.html) [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/StiffODEs.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/StiffODEs.html)
+* Lecture 13: Sections 8.3 & 9.0
+* Lecture 14: Sectiosn 9.1 & 9.2
 
 
 ## Extra topics
