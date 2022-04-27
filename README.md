@@ -41,3 +41,4 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 ## Extra topics
 
 1. [Functions of matrices](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1e0cd2-78d6-44ba-a627-ae66017d0a0a) [pdf](https://drive.google.com/open?id=1qTbgft-jEanOGP019TV96yvk9CqrDPjk)
+2. [Orthogonal polynomials](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35dab1f9-8df2-4966-b78b-ae84015bbdd4) [pdf](https://drive.google.com/open?id=1Q9NaZrs2kT26T6HfO5ttzkJgwwQizoPF)
