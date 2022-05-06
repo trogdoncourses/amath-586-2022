@@ -40,6 +40,7 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 15: Sections 9.3-5
 * Lecture 16: Section 9.5-6 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/CrankNicolson.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/CrankNicolson.html)
 * Lecture 17: Section 9.6
+* Lecture 18: Section 9.6 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/CrankNicolson2D.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/CrankNicolson2D.html)
 
 ## Extra topics
 
