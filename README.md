@@ -15,6 +15,7 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 1. [Homework 1](https://classroom.github.com/a/1NgqS_Ss) 
 2. [Homework 2](https://classroom.github.com/a/5YsGd3yP)
 3. [Homework 3](https://classroom.github.com/a/AYhJjiRz)
+4. [Homework 4](https://classroom.github.com/a/as4IuvP4)
 
 ## Typed notes
 
