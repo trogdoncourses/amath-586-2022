@@ -42,6 +42,9 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 17: Section 9.6
 * Lecture 18: Section 9.6 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/CrankNicolson2D.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/CrankNicolson2D.html)
 * Lecture 19: Section 10.1-2
+* Lecture 20: Section 10.3-4
+* Lecture 21: Section 10.3-4 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Advection.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Advection.html)
+* Lecture 22: Section 10.5 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Advection-Caution.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Advection-Caution.html)
 
 ## Extra topics
 
