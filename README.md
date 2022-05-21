@@ -16,6 +16,7 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 2. [Homework 2](https://classroom.github.com/a/5YsGd3yP)
 3. [Homework 3](https://classroom.github.com/a/AYhJjiRz)
 4. [Homework 4](https://classroom.github.com/a/as4IuvP4)
+5. [Homework 5](https://classroom.github.com/a/Z7k1N7ew)
 
 ## Typed notes
 
@@ -45,6 +46,8 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 20: Section 10.3-4
 * Lecture 21: Section 10.3-4 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Advection.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Advection.html)
 * Lecture 22: Section 10.5 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Advection-Caution.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Advection-Caution.html)
+* Lecture 23: Sections 10.4-7
+* Lecture 24: Sections 10.7-10.12
 
 ## Extra topics
 
