@@ -69,8 +69,8 @@ Perform the von Neumann stability analysis to find $s(\xi)$ (LeVeque calls this 
       u_{tt} = c^2 u_{xx}, \quad c > 0,\\
       u(x,0) = f(x),\\
       u_t(x,0) = g(x),\\
-      u(x,0) = u(x,1),\\
-      u_x(x,0) = u_x(x,1).
+      u(0,t) = u(1,t),\\
+      u_x(0,t) = u_x(1,t).
     \end{cases}
   \end{align*}
   Using $f(x) = \exp( -20(x-1/2)^2 )$, $g(x) = \sin(4\pi x)$, $c = 1$, implement a method to compute and plot the solution at $t = 0,1,2,3$ with $h = 0.01$.  The $k$ you need to choose will depend on the method you use.  Describe your method in detail.
