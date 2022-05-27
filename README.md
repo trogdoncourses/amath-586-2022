@@ -48,6 +48,9 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 * Lecture 22: Section 10.5 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/Advection-Caution.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/Advection-Caution.html)
 * Lecture 23: Sections 10.4-7
 * Lecture 24: Sections 10.7-10.12
+* Lecture 25: Sections 10.10, 11.1-4
+* Lecture 26: Sections 11.1-4 [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/TRBDF2-noflux-2D.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/TRBDF2-noflux-2D.html) [ipynb](https://nbviewer.org/github/trogdoncourses/amath-586-2022/blob/main/notebooks/WaveTank.ipynb) [html](https://faculty.washington.edu/trogdon/amath-586-2022/notebooks/WaveTank.html)
+* Lecture 27: Section 11.6, Appendix C (typed notes)
 
 ## Extra topics
 
