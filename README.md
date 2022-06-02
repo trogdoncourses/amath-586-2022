@@ -18,6 +18,10 @@ Lastly, homeworks will be submitted via gradescope: https://www.gradescope.com/c
 4. [Homework 4](https://classroom.github.com/a/as4IuvP4)
 5. [Homework 5](https://classroom.github.com/a/Z7k1N7ew)
 
+## Final Project/Exam
+
+1. [Final Project](https://classroom.github.com/a/vbFHsd3y)
+
 ## Typed notes
 
 [Lecture Notes](https://github.com/trogdoncourses/amath-586-2022/blob/main/Advanced_Numerical_Analysis.pdf)
